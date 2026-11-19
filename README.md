@@ -1,2 +1,2 @@
-# oaqjp-final-project-emb-ai
-<img width="4032" height="1832" alt="image" src="https://github.com/user-attachments/assets/e03ef568-ee39-463b-9151-3d98df74f7a3" />
+<img width="4032" height="1832" alt="image" src="https://github.com/user-attachments/assets/db7bc2d8-25e7-4bcd-8b01-37b2dae2bb11" />
+
